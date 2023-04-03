@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d00000&height=100&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcos+Vincius;I'm+15+years+old;I+am+from+Brumado,+BA;I'm+starting+in+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -34,10 +34,5 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-   
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarcosZip}/count.svg" /></p> 
-<br></div>
  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d00000&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=footer"/>
